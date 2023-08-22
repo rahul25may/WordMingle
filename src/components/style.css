@@ -1,0 +1,27 @@
+.divFlex{
+    display: flex;
+    flex-direction: rows;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 10px;
+    justify-content: center;  
+}
+.container-home{
+    min-height: calc(100vh - 154px);
+    padding: 0.15px 10px;
+}
+.preview-text{
+    max-height: 90vh;
+}
+.font-sz{
+    font-size: 18px;
+  }
+.h1-Text{
+    color: #cdc1ce;
+}
+.h2-Text{
+    color: #cdc1ce;
+}
+.p-Text{
+    color: #868080;
+}
